@@ -1,0 +1,17 @@
+git branch <имя ветки> - создание ветки
+
+git checkout  <имя ветки> 
+
+git pull origin <имя главной ветки> 
+
+git push -u origin <имя ветки> 
+
+git add .
+git commit -m "cooment"
+
+_________________________________
+
+main => feature
+git branch -D  <имя ветки> 
+
+__________________________________
